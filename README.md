@@ -162,6 +162,12 @@ pytest --alluredir=reports/allure-results
 allure serve reports/allure-results
 ```
 
+## Отчет о тестировании
+
+Пример HTML отчета с результатами последнего запуска тестов доступен в репозитории:
+
+[Скачать отчет](reports/report.html)
+
 ## Архитектура
 
 ### Многослойная структура
