@@ -1,0 +1,10 @@
+requests
+pytest
+pytest-html
+pytest-xdist
+pydantic
+pydantic-settings
+python-dotenv
+allure-pytest
+Faker
+email-validator
