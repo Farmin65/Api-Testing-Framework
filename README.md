@@ -198,7 +198,6 @@ class Post(BaseModel):
 
 - При push в main/master
 - При создании Pull Request
-- Ежедневно по расписанию (cron: 0 0 * * *)
 
 ### Шаги пайплайна
 
