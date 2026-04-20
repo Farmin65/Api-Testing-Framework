@@ -266,11 +266,6 @@ def new_endpoint():
     return NewEndpoint()
 ```
 
-## Лицензия
 
-MIT License
-```
-
----
 
 
