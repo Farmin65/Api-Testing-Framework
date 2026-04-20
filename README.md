@@ -166,7 +166,7 @@ allure serve reports/allure-results
 
 Пример HTML отчета с результатами последнего запуска тестов доступен в репозитории:
 
-[Скачать отчет](reports/report.html)
+[Открыть отчет о тестировании](./reports/report.html)
 
 ## Архитектура
 
