@@ -164,9 +164,7 @@ allure serve reports/allure-results
 
 ## Отчет о тестировании
 
-Пример HTML отчета с результатами последнего запуска тестов доступен в репозитории:
-
-[Открыть отчет о тестировании](./reports/report.html)
+[Посмотреть демо отчет](https://htmlpreview.github.io/?https://raw.githubusercontent.com/Farmin65/api-testing-framework/main/demo/demo-report.html)
 
 ## Архитектура
 
